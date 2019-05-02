@@ -1,3 +1,3 @@
-class platform-chassis-extension {
+class platform-chassis-extension( $config ) {
 	# Empty, just here as a meta-package.
 }
