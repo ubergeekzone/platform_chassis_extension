@@ -10,3 +10,4 @@ dependencies:
   - Chassis/nodejs
   - Chassis/mcrypt
   - Chassis/Cavalcade
+  - Chassis/chassis-openssl
