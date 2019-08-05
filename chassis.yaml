@@ -11,3 +11,4 @@ dependencies:
   - Chassis/mcrypt
   - Chassis/Cavalcade
   - Chassis/chassis-openssl
+  - Chassis/Mailhog
