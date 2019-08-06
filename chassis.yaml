@@ -12,3 +12,5 @@ dependencies:
   - Chassis/Cavalcade
   - Chassis/chassis-openssl
   - Chassis/Mailhog
+  - humanmade/chassis-aws-analytics
+  - Chassis/Imagick
