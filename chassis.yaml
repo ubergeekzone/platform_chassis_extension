@@ -10,7 +10,7 @@ dependencies:
   - Chassis/nodejs
   - Chassis/mcrypt
   - Chassis/Cavalcade
-  - Chassis/chassis-openssl
+  - Chassis/chassis_openssl
   - Chassis/Mailhog
-  - humanmade/chassis-aws-analytics
+  - humanmade/chassis_aws_analytics
   - Chassis/Imagick
