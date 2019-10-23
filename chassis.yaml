@@ -14,3 +14,4 @@ dependencies:
   - Chassis/Mailhog
   - humanmade/chassis_aws_analytics
   - Chassis/Imagick
+  - Chassis/yarn
