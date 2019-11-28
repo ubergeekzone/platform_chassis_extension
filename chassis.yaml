@@ -15,3 +15,4 @@ dependencies:
   - humanmade/chassis_aws_analytics
   - Chassis/Imagick
   - Chassis/yarn
+  - Chassis/xhprof
