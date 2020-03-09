@@ -16,3 +16,4 @@ dependencies:
   - Chassis/Imagick
   - Chassis/yarn
   - Chassis/xhprof
+  - Chassis/apcu
